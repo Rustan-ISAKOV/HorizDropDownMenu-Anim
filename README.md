@@ -1,5 +1,5 @@
 # Water Users Association (WUA)
-Design and Development of Management Information Systems, database and Corporate Web Site
+Design and Development of Management Information Systems, Database and Corporate Web Site
 
 1.Hera there is a graphic element of Database Web Interface:
 
