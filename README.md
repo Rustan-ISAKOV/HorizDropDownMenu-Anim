@@ -3,5 +3,5 @@ Design and Development of Management Information Systems, Database and Corporate
 
 1.Hera there is a graphic element of Database Web Interface:
 
-- Animation Horizontal DropDown Menu
+- Animated Horizontal DropDown Menu
 
